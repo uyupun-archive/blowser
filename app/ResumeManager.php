@@ -4,12 +4,15 @@ namespace App;
 
 class ResumeManager
 {
+    protected $resume;
+
     /**
      * 履歴書の元となるJSONを読み込み
      */
-    public function read()
+    public function read($resume)
     {
-        var_dump('read');
+        $this->resume = file_get_contents(__DIR__ . '/../' . $resume . '.json');
+        return $this;
     }
 
     /**
@@ -17,6 +20,6 @@ class ResumeManager
      */
     public function generate()
     {
-        var_dump('generate');
+        return $this;
     }
 }
