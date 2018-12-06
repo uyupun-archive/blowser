@@ -5,4 +5,6 @@
 
 ```bash
 $ composer install
+$ chmod u+x blowser
+$ ./blowser resume
 ```
