@@ -26,5 +26,38 @@
     "kana": "",
     "postal_code": "",
     "phone_number": ""
-  }
+  },
+  "education": [
+    {
+      "yyyy": "",
+      "mm": ""
+    }
+  ],
+  "career": [
+    {
+      "yyyy": "",
+      "mm": ""
+    }
+  ],
+  "license": [
+    {
+      "yyyy": "",
+      "mm": ""
+    }
+  ],
+  "certification": [
+    {
+      "yyyy": "",
+      "mm": ""
+    }
+  ],
+  "various": "",
+  "commute": {
+    "yyyy": "",
+    "mm": ""
+  },
+  "dependents": "",
+  "spouse": true,
+  "duty_to_support": true,
+  "entry_column": ""
 }
