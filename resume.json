@@ -1,3 +1,30 @@
 {
-  "test": "test"
+  "today": {
+    "yyyy": "",
+    "mm": "",
+    "dd": ""
+  },
+  "name": {
+    "name": "",
+    "kana": ""
+  },
+  "birthday": {
+    "yyyy": "",
+    "mm": "",
+    "dd": "",
+    "full_age": ""
+  },
+  "sex": "",
+  "address": {
+    "name": "",
+    "kana": "",
+    "postal_code": "",
+    "phone_number": ""
+  },
+  "contact": {
+    "name": "",
+    "kana": "",
+    "postal_code": "",
+    "phone_number": ""
+  }
 }
